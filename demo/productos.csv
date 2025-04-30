@@ -1,4 +1,4 @@
-nombre,descripcion,precio,imagen
-Combo 1,Hamburguesa más papas,3500,http://imgfz.com/i/ily9awZ.png
-Combo 2,Hamburguesa Doble,4500,http://imgfz.com/i/ily9awZ.png
-...
+Nombre del Producto,Descripción,Precio,Imagen
+Hamburguesa Clásica,Hamburguesa con carne de res, queso, lechuga y tomate,2500,https://miwebsite.com/images/hamburguesa.jpg
+Papas Fritas,Porción de papas fritas crujientes,1000,https://miwebsite.com/images/papas.jpg
+Refresco,Refresco en lata,800,https://miwebsite.com/images/refresco.jpg
